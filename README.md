@@ -13,7 +13,7 @@ See sample data below:
 ![image](https://github.com/user-attachments/assets/48cca8c0-e5e0-4409-80b5-dbaade277c9f)
 
 ## BUSINESS REQUIREMENT
-1. For each row in the Customer sheet, search and match every depertment name in the Department sheet.
+1. For each row in the Customer sheet, search and match every department name in the Department sheet.
 2. If there's an exact match, then update the Output sheet with CustomerID, Customer_Name, Department Name and DepartmentID
 3. Automate this process using VBA code.
 
